@@ -8,7 +8,7 @@ In this project, we will build a neural network model to solve a regression prob
 
 -Data normalization
 
--Train and Test split
+-Train and Test split123
 
 -Create a neural network model
 
